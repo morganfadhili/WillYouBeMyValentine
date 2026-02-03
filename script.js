@@ -102,7 +102,7 @@ function yes() {
     const wedate = document.getElementById("wedate");
     const btns = document.getElementById("btns");
     btns.style.display = "none";
-    wedate.innerText = "We are dating now. I love you cutie.";
+    wedate.innerText = "We are now valentine lovers🌹❤️😏. I love you Baby Bee.";
   } else {
     alert("Kuch to Bhao khao cutie. Sidhe yes mat bola karo.");
   }
