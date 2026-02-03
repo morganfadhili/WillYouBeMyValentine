@@ -102,7 +102,7 @@ function yes() {
     const wedate = document.getElementById("wedate");
     const btns = document.getElementById("btns");
     btns.style.display = "none";
-    wedate.innerText = "We now have a date to be on Babes, see you on 14th🌹❤️😏. I love you Baby Bee.";
+    wedate.innerText = "We now have a date to be on Babes,can't wait see you on 14th🌹❤️😏. I love you Bernice Babe.";
   } else {
     alert("Don't agree too quickly, make me work for it😏. Say No atleast 3 times Babes");
   }
