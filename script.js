@@ -102,9 +102,9 @@ function yes() {
     const wedate = document.getElementById("wedate");
     const btns = document.getElementById("btns");
     btns.style.display = "none";
-    wedate.innerText = "We are now valentine lovers🌹❤️😏. I love you Baby Bee.";
+    wedate.innerText = "We now have a date to be on, see you on 14th🌹❤️😏. I love you my valentines.";
   } else {
-    alert("Kuch to Bhao khao cutie. Sidhe yes mat bola karo.");
+    alert("Don't agree too quickly, make me work for it😏. Say No atleast 3 times Babes");
   }
 }
 
